@@ -17,6 +17,7 @@ function TodoHead() {
             return;
         }
         setSingleTodo(todos.push(<Todo text={singleTodo} editAct={testTwo} doneAct={testThree} deleteAct={testFour} />));
+        console.log(singleTodo);
         // setSingleTodo(e.target.value);
     }
 
