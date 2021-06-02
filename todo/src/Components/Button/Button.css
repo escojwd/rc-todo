@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    font-size: 30px;
+    background-color: transparent;
+    border: none;
+    vertical-align: baseline;    
+    padding: 0 8px;
+}
+
+.todo-text {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.edit-btn {
+    color: blue;
+    font-size: 16px;
+}
+
+.done-btn {
+    color: green;
+    font-size: 16px;
+}
+
+.delete-btn {
+    color: red;
+    font-size: 16px;
+}

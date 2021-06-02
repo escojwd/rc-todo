@@ -1,0 +1,27 @@
+.wrap {
+    margin-bottom: 50px;
+}
+
+.todo-input {
+    margin: 25px 0;
+    width: 500px;
+    height: 30px;
+    resize: none;
+    padding: 15px;
+}
+
+.list-select {
+    width: 150px;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+}
+
+.comp-option {
+    color: green;
+}
+
+.uncomp-option {
+    color: red;
+}
+
